@@ -57,6 +57,6 @@ class __TwigTemplate_357dcb094ab21d69fa507c2a2425e4c700224385287da0bb59fcdf33510
     public function getSourceContext()
     {
         return new Source("<?php echo \$view['form']->block(\$form, 'form_widget_simple', ['type' => isset(\$type) ? \$type : 'email']) ?>
-", "@Framework/Form/email_widget.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/email_widget.html.php");
+", "@Framework/Form/email_widget.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/email_widget.html.php");
     }
 }

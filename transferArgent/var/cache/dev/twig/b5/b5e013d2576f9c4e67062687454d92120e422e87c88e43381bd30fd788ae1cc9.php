@@ -357,6 +357,6 @@ class __TwigTemplate_2008cec58cee034bd885e4b2c05cd1df03c4eea39a5e3ac20d51f449f72
 
 </body>
 </html>
-", "@ApiPlatform/SwaggerUi/index.html.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
+", "@ApiPlatform/SwaggerUi/index.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
     }
 }

@@ -63,6 +63,6 @@ class __TwigTemplate_5df95f90d964f555677882d308b2558d0390e0a5a1862a9e4dcd212d228
     public function getSourceContext()
     {
         return new Source("{{ include('@Twig/Exception/error.xml.twig') }}
-", "@Twig/Exception/error.rdf.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.rdf.twig");
+", "@Twig/Exception/error.rdf.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.rdf.twig");
     }
 }

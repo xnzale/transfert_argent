@@ -165,6 +165,6 @@ class __TwigTemplate_84e15c5b654e95a444a9eef7b1e9c122174323189987844edba2d79594d
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

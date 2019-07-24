@@ -96,6 +96,6 @@ class __TwigTemplate_17f4ef91282c5a62bb5cfd582d75ab64c769033e41b5834126fe5c05a54
 {{ include('@Twig/Exception/traces.txt.twig', { exception: e }, with_context = false) }}
 
 {% endfor %}
-", "@Twig/Exception/exception.txt.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/exception.txt.twig");
+", "@Twig/Exception/exception.txt.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/exception.txt.twig");
     }
 }

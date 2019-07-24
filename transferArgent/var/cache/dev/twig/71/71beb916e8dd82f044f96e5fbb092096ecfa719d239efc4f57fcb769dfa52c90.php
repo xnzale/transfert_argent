@@ -77,6 +77,6 @@ class __TwigTemplate_49dc15b54706a2b17557b3bddb7f7f880320f70c7fe793b6ffb94b4c22c
     <?php echo \$view['form']->block(\$form, 'form_rows'); ?>
     <?php echo \$view['form']->rest(\$form); ?>
 </table>
-", "@Framework/FormTable/form_widget_compound.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/FormTable/form_widget_compound.html.php");
+", "@Framework/FormTable/form_widget_compound.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/FormTable/form_widget_compound.html.php");
     }
 }

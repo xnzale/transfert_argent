@@ -91,6 +91,6 @@ class __TwigTemplate_c37807da2f61d4c1ba72328c3de73cf51e140ce482f53eb6ac5c7ad83ea
     <?php endif ?>
     <?php echo \$view['form']->block(\$form, 'choice_widget_options', ['choices' => \$choices]) ?>
 </select>
-", "@Framework/Form/choice_widget_collapsed.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/choice_widget_collapsed.html.php");
+", "@Framework/Form/choice_widget_collapsed.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/choice_widget_collapsed.html.php");
     }
 }

@@ -57,6 +57,6 @@ class __TwigTemplate_7d962e89afeed2b8d6af52f61d7ef2a4b2fc8251b419dda075551eb77ce
     public function getSourceContext()
     {
         return new Source("<?php echo \$view['form']->block(\$form, 'choice_widget_options') ?>
-", "@Framework/Form/choice_options.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/choice_options.html.php");
+", "@Framework/Form/choice_options.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/choice_options.html.php");
     }
 }

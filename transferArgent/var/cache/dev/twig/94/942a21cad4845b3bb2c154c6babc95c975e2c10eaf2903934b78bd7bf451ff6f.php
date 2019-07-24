@@ -155,6 +155,6 @@ class __TwigTemplate_e8780e6e2982335f41b19a2afcb5ea561408abb76d23a82b76c45f7b162
         </tr>
     </tbody>
 </table>
-", "@Twig/Exception/traces_text.html.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/traces_text.html.twig");
+", "@Twig/Exception/traces_text.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/traces_text.html.twig");
     }
 }

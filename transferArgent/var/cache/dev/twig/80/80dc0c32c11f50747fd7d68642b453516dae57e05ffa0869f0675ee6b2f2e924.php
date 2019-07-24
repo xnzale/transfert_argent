@@ -143,6 +143,6 @@ class __TwigTemplate_886688d6e54f00df1f08a0b2d877df73800f55dfaf8632b957b2d16ac1e
         {% block javascripts %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/dijaseck/transfert_argent/transferArgent/templates/base.html.twig");
+", "base.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/templates/base.html.twig");
     }
 }

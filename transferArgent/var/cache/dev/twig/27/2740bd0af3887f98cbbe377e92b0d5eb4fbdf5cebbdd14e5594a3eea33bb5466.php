@@ -119,6 +119,6 @@ class __TwigTemplate_28632e2bcb9cb0aa68c59abb932b15762642bed9275b5577c18e01068aa
         </div>
     </body>
 </html>
-", "@Twig/Exception/error.html.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.html.twig");
+", "@Twig/Exception/error.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.html.twig");
     }
 }

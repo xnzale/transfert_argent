@@ -63,6 +63,6 @@ class __TwigTemplate_90f5162ee2b0be3e2a1abc0cd1fd5a3af77d3f10b14ccf8b4fa610907d4
     public function getSourceContext()
     {
         return new Source("{{ include('@Twig/Exception/error.xml.twig') }}
-", "@Twig/Exception/error.atom.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.atom.twig");
+", "@Twig/Exception/error.atom.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.atom.twig");
     }
 }

@@ -73,6 +73,6 @@ class __TwigTemplate_0d6cd9f3f6d2ce7f63ec0040335366be80791e86488c01c4049bfd08391
 {{ status_code }} {{ status_text }}
 
 */
-", "@Twig/Exception/error.js.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.js.twig");
+", "@Twig/Exception/error.js.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/twig-bundle/Resources/views/Exception/error.js.twig");
     }
 }

@@ -124,6 +124,6 @@ class __TwigTemplate_d1a7c99b84db56447dadbb6a09fe3fb4688af8c83557598b63a7b7560d1
 
 </body>
 </html>
-", "@ApiPlatform/Graphiql/index.html.twig", "/home/dijaseck/transfert_argent/transferArgent/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
+", "@ApiPlatform/Graphiql/index.html.twig", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
     }
 }

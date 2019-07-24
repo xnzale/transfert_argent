@@ -59,6 +59,6 @@ class __TwigTemplate_e2b123d940d4b8bb9d736c8dcea7123ae8e53d6a87710b616cbb8f9332d
     {
         return new Source("id=\"<?php echo \$view->escape(\$id) ?>\" name=\"<?php echo \$view->escape(\$full_name) ?>\"<?php if (\$disabled): ?> disabled=\"disabled\"<?php endif ?>
 <?php if (\$required): ?> required=\"required\"<?php endif ?>
-<?php echo \$attr ? ' '.\$view['form']->block(\$form, 'attributes') : '' ?>", "@Framework/Form/widget_attributes.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/widget_attributes.html.php");
+<?php echo \$attr ? ' '.\$view['form']->block(\$form, 'attributes') : '' ?>", "@Framework/Form/widget_attributes.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/widget_attributes.html.php");
     }
 }

@@ -57,6 +57,6 @@ class __TwigTemplate_a0e806a3f105e1c9e5b4710e79d87dc29b800f21ec92b8556c53e41d368
     public function getSourceContext()
     {
         return new Source("<?php echo \$view['form']->block(\$form, 'form_widget_simple', ['type' => isset(\$type) ? \$type : 'search']) ?>
-", "@Framework/Form/search_widget.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/search_widget.html.php");
+", "@Framework/Form/search_widget.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/search_widget.html.php");
     }
 }

@@ -57,6 +57,6 @@ class __TwigTemplate_7d543b9bc011e7f782b3eb4d12851ad4bdf177b29d9f1838af7d3d022aa
     public function getSourceContext()
     {
         return new Source("<?php echo \$view['form']->block(\$form, 'form_widget_simple', ['type' => isset(\$type) ? \$type : 'number']) ?>
-", "@Framework/Form/integer_widget.html.php", "/home/dijaseck/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/integer_widget.html.php");
+", "@Framework/Form/integer_widget.html.php", "/home/nzale/Bureau/transfert_argent/transferArgent/vendor/symfony/framework-bundle/Resources/views/Form/integer_widget.html.php");
     }
 }
