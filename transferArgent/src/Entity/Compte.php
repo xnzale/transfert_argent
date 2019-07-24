@@ -33,6 +33,11 @@ class Compte
      */
     private $status;
 
+    /**
+     * @ORM\Column(type="datetime")
+     */
+    private $date_creation;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -70,6 +75,18 @@ class Compte
     public function setStatus(?string $status): self
     {
         $this->status = $status;
+
+        return $this;
+    }
+
+    public function getDateCreation(): ?\DateTimeInterface
+    {
+        return $this->date_creation;
+    }
+
+    public function setDateCreation(\DateTimeInterface $date_creation): self
+    {
+        $this->date_creation = $date_creation;
 
         return $this;
     }
